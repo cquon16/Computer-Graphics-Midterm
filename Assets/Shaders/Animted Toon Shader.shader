@@ -1,7 +1,3 @@
-//Explanation: I applied an animated toon shader to the character to make it stand out in the scene. While everything else in the scene is static, the player model is contrasted by the animation and also the toon shading keeps to the retro aspect of the game while adding some sense of depth to the playable character. As this shader helps an object stand out I thought it would be best to apply it to the playable character as this is what the player's attention should be most focused on. The animation from light to darker blue also signifies a freezing kind of feeling as the environment is the ice covered mountains
-
-
-
 Shader "Custom/AnimatedToonShader"
 {
     // These are properties exposed to the Unity editor for tweaking shader settings
