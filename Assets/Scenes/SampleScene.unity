@@ -1516,7 +1516,7 @@ GameObject:
   - component: {fileID: 1503247092}
   - component: {fileID: 1503247091}
   m_Layer: 0
-  m_Name: Capsule
+  m_Name: Enemy Sheep
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
